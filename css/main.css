@@ -1,0 +1,80 @@
+/* .body{
+    background-color: chartreuse;
+}
+
+.h1{
+    color: blueviolet;
+} */
+
+/* article {
+    background-color: red;
+
+
+}
+
+P {
+   display: block; 
+   padding: 20px;
+}
+
+img {
+    padding: 5px;
+    float: left;
+    width: 18.5%;
+    display: block;
+    
+}
+
+header, 
+section,
+article,
+aside, 
+footer {
+    background-color:#bada55;
+    margin:0 1% 10px 1%;
+    padding: 20 px;
+    text-align: center;
+}
+
+section{
+    float: left;
+    width: 60%;
+    height: 90vh;
+    
+    
+}
+
+aside{
+    float: right;
+    width: 33%;
+    height: 90vh;
+}
+
+
+
+@media all and (max-width: 420px) {
+    section,
+    aside {
+            float: none;
+            width: auto;
+
+        }
+
+    img {
+        display: none;
+    }
+
+    p {
+        padding: 10px;
+    }
+
+
+
+footer {
+        clear: both;
+} */
+
+/* .navbar-bg,
+footer{
+    background-color: 36414C;
+} */
